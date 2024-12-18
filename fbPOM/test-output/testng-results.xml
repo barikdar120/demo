@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-14T15:47:42Z" name="Default suite" finished-at="2024-12-14T15:47:44Z" duration-ms="1304">
+    <groups>
+    </groups>
+    <test started-at="2024-12-14T15:47:42Z" name="Default test" finished-at="2024-12-14T15:47:44Z" duration-ms="1304">
+      <class name="test.CreateAccountPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.CreateAccountPageTest@648c94da]" started-at="2024-12-14T10:47:41Z" name="setup" finished-at="2024-12-14T10:47:42Z" duration-ms="1724" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="creataccountpagetest()[pri:0, instance:test.CreateAccountPageTest@648c94da]" started-at="2024-12-14T10:47:42Z" name="creataccountpagetest" finished-at="2024-12-14T10:47:44Z" duration-ms="1290" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creataccountpagetest -->
+      </class> <!-- test.CreateAccountPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
